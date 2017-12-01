@@ -18,4 +18,4 @@ ___
 Krijimi i nje webpage per supermarketet
 
 ## **Pershkrimi**: 
-Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem ,kontrollin e bilancit etj.
+Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem , kontrollin e bilancit etj.
