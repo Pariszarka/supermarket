@@ -1,7 +1,7 @@
 # Shitësit
-* #### 1. **Ne fillim behet login.**
+* #### 1. **Ne fillim behet login ne aplikacion.**
 * #### 2. **Hapet faqa kryesore ku mund te navigosh ndermjet navbarit.**
-* #### 3. **Ne navbar do te kete "Shto fatur" , "Faturat" , "Shitesit" , "Artikuj" ,"Shitjet" dhe ne fund butoni 'logout'.**
+* #### 3. **Ne navbar do te kete "Shto fatur" , "Faturat" , "Shitesit" , "Artikuj" ,"Shitjet" dhe ne fund butoni 'logout' per te dal.**
 * #### 4. **Ne butonin "Shto Fatur" shitesi mund te prese faturat me sa artikuj te doje dhe sasine perkatese, kurse cmimi merret nga DB nuk ka nevoj ta vendosi shitesi.**
 * #### 5. **Ne butonin "Faturat" shitesit do ti afishohet nje tabel me te gjitha faturat e prera dhe ai mund te shikoj detajet e fatures dhe ta printoj ate.**
 * #### 6. **Ne butonin "Shitesit" mund te shikoni te gjithe shitesit dhe administratorin e dyqanit.**
