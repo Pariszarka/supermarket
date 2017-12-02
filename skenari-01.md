@@ -1,4 +1,4 @@
-## **Shitësit**
+# Shitësit
 * #### 1. **Ne fillim behet login.**
 * #### 2. **Hapet faqa kryesore ku mund te navigosh ndermjet navbarit.**
 * #### 3. **Ne navbar do te kete "Shto fatur" , "Faturat" , "Shitesit" , "Artikuj" ,"Shitjet" dhe ne fund butoni 'logout'.**
